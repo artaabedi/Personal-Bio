@@ -1,7 +1,7 @@
 # How to use this ?
 
 - Star the repository to show your support
-- Also, if you need any help, feel free connect me on [Discord](https://discord.gg/2pkvB82NaS)
+- Also, if you need any help, feel free connect me on [Website](https://artaabedi.com)
 
 ### Using the Template
 
