@@ -53,7 +53,7 @@ module.exports = {
       },
       {
         source: '/pinterest',
-        destination: 'https://id.pinterest.com/romanromannya',
+        destination: 'https://id.pinterest.com/artaabedi',
         permanent: true,
       },
       {
