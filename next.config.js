@@ -18,37 +18,37 @@ module.exports = {
     return [
       {
         source: '/profile',
-        destination: 'https://lrmn.is-a.dev/',
+        destination: 'https://artaabedi.com/',
         permanent: true,
       },
       {
         source: '/virtualphotography',
-        destination: 'https://vp.lrmn.fun/',
+        destination: 'https://artaabedi.com/',
         permanent: true,
       },
       {
         source: '/mewstify',
-        destination: 'https://mewstify.vercel.app/',
+        destination: 'https://artaabedi.com/',
         permanent: true,
       },
       {
         source: '/mybot',
-        destination: 'https://meww.me/',
+        destination: 'https://artaabedi.com/',
         permanent: true,
       },
       {
         source: '/instagram',
-        destination: 'https://instagram.com/romanroman.nya',
+        destination: 'https://instagram.com/rtaafj',
         permanent: true,
       },
       {
         source: '/github',
-        destination: 'https://github.com/lrmn7',
+        destination: 'https://github.com/artaabedi',
         permanent: true,
       },
       {
         source: '/spotify',
-        destination: 'https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/',
+        destination: 'https://open.spotify.com/USER/pbht2yt12y811c4iyoa9m1zfa?si=s00cXukWR1CHYVYAcBB8UA',
         permanent: true,
       },
       {
@@ -58,12 +58,12 @@ module.exports = {
       },
       {
         source: '/patreon',
-        destination: 'https://www.patreon.com/mewwme',
+        destination: 'https://www.patreon.com/artaabedi',
         permanent: true,
       },
       {
         source: '/madebytragic',
-        destination: 'https://discord.gg/6EXgrmtkPX',
+        destination: 'https://discord.com/invite/ZS27HA3A3R',
         permanent: true,
       },
     ];
