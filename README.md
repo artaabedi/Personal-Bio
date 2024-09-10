@@ -13,14 +13,14 @@
 - Fast, SEO Optimized, Responsive, Customizable **(Use your own Brand Colors)**
 
 
-## :sparkles: [Live Demo](https://hi-lrmn.is-a.dev)
+## :sparkles: [Live Demo](https://o00o.netlify.app)
 
 - With bio-with-spotify, you can easily store and organize all your important links in one place. The app features a sleek and modern design, with customizable styling options to make it your own. (Read - [how to use it ?](https://github.com/lrmn7/personal-bio/blob/main/USING.md))
 
 ## Ussage
 
 ```sh
-git clone https://github.com/lrmn7/personal-bio.git
+git clone https://github.com/ArtaAbedi/personal-bio.git
 ```
 - Install the dependencies
 
@@ -39,7 +39,7 @@ pnpm dev # for pnpm
 ```
 
 # Using the template
-To use this template, read and follow the steps given in the [Using Guide](https://github.com/lrmn7/personal-bio/blob/main/USING.md)
+To use this template, read and follow the steps given in the [Using Guide](https://github.com/ArtaAbefi/personal-bio/blob/main/USING.md)
 
 ## 💌 Support Server
 
