@@ -46,25 +46,25 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="L RMN  | いつか、私がヒトじゃなくなっても"
-        titleTemplate="L RMN - Mostly Sleepless"
-        defaultTitle="L RMN  | Mostly Sleepless"
-        description="Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
+        title="Arta Abedi  | Web Developer"
+        titleTemplate="Arta Abedi - Mostly Sleepless"
+        defaultTitle="Arta Abedi  | Mostly Sleepless"
+        description="Hey! I'm Arta Abedi , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
-          url: "https://hi-lrmn.is-a.dev/",
-          title: "L RMN | いつか、私がヒトじゃなくなっても",
+          url: "https://artaabedi.com/",
+          title: "Arta Abedi | Web Developer",
           description:
-            "Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
+            "Hey! I'm Arta Abedi , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
           images: [
             {
               url: "https://hi-lrmn.is-a.dev/og-image.png",
-              alt: "L RMN  | いつか、私がヒトじゃなくなっても",
+              alt: "Arta Abedi  | Web Developer",
             },
           ],
         }}
         twitter={{
-          handle: "@romanromannya",
-          site: "@romanromannya",
+          handle: "@artaabedi",
+          site: "@artaabedi",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
