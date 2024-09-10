@@ -2,9 +2,9 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "L RMN";
-const belowLink = "いつか、私がヒトじゃなくなっても";
-/*const bio = "Blogger | Dreamer | Observer 🗿";*/
+const name = "Arta Abedi";
+const belowLink = "Web Developer";
+/*const bio = "Blogger | Dreamer | Gamer";*/
 
 const servername = "Made by tragic";
 
@@ -375,7 +375,7 @@ export default function Home() {
                 <div className="container mx-auto text-center">
                   Made by TRAGIC in BOGOR
                   <p className="text-gray text-s">
-                    © 2023 L RMN. All rights reserved.
+                    © 2024 Arta Abedi. All rights reserved.
                   </p>
                 </div>
               </footer>
