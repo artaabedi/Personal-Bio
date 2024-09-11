@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         source: '/discord-server',
-        destination: 'https://discord.com/users/884500561158869032',
+        destination: 'https://discord.com/invite/ZS27Ha3a3r',
         permanent: true,
       },
       {
@@ -63,7 +63,7 @@ module.exports = {
       },
       {
         source: '/discord',
-        destination: 'https://discord.com/invite/ZS27HA3A3R',
+        destination: 'https://discord.com/users/884500561158869032',
         permanent: true,
       },
     ];
