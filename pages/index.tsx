@@ -173,7 +173,7 @@ export default function Home() {
                             </svg>
                             <p className="text-sm font-medium text-indigo-100">
                               <a
-                                href="/madebytragic"
+                                href="/discord"
                                 className="text-sm font-medium text-indigo-100"
                               >
                                 {servername}
@@ -273,7 +273,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="/mybot"
+                            href="/discord-server"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
