@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         source: '/discord-server',
-        destination: '',
+        destination: 'https://discord.com/users/884500561158869032',
         permanent: true,
       },
       {
