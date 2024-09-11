@@ -16,7 +16,7 @@ function Banner({ icon, label }) {
         <Banner icon="🎮" label="Game" />
         <Banner icon="🤑" label="Business" />
         <Banner icon="🎵" label="Music" />
-        <Banner icon="📸" label="Photography" />
+        <Banner icon="🏀" label="Basketball" />
       </div>
     );
   }
