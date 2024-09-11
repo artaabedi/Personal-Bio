@@ -17,23 +17,23 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/profile',
+        source: '/portfolio,
         destination: 'https://artaabedi.com/',
         permanent: true,
       },
       {
-        source: '/virtualphotography',
-        destination: 'https://artaabedi.com/',
+        source: '/telegram-ch',
+        destination: 'https://t.me/ArtaBio/',
         permanent: true,
       },
       {
-        source: '/mewstify',
-        destination: 'https://artaabedi.com/',
+        source: '/steam',
+        destination: 'https://steamcommunity.com/id/ArtaAbedi/',
         permanent: true,
       },
       {
-        source: '/mybot',
-        destination: 'https://artaabedi.com/',
+        source: '/',
+        destination: '',
         permanent: true,
       },
       {
