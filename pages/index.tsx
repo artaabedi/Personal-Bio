@@ -201,7 +201,7 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Personal Website
+                                      Portfolio Website
                                     </span>
                                     <span
                                       title="Nothing"
@@ -245,13 +245,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Virtual Photography
+                                      Telegram Channel
                                     </span>
                                     <span
                                       title="Web toolbox"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Gallery.
+                                      Full Biography.
                                     </span>
                                   </div>
                                 </div>
@@ -333,7 +333,7 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Mewstify
+                                      Spotify Playlist
                                     </span>
                                     <span
                                       title=""
