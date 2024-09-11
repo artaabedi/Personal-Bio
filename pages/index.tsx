@@ -289,13 +289,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Discord bot
+                                      Discord Server
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      The Discord bot I manage.
+                                      The Discord server I manage.
                                     </span>
                                   </div>
                                 </div>
@@ -333,14 +333,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Spotify Playlist
+                                      Steam
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Explore Your Spotify Stats and Uncover
-                                      Your Music Insights
+                                      Play Online Game With Me ;)
                                     </span>
                                   </div>
                                 </div>
