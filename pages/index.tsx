@@ -2,8 +2,8 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Arta Abedi";
-const belowLink = "Web Developer";
+const name = "αятα";
+const belowLink = "𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛";
 /*const bio = "Blogger | Dreamer | Gamer";*/
 
 const servername = "Made by tragic";
