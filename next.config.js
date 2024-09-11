@@ -32,7 +32,7 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/',
+        source: '/discord-server',
         destination: '',
         permanent: true,
       },
@@ -62,7 +62,7 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/madebytragic',
+        source: '/discord',
         destination: 'https://discord.com/invite/ZS27HA3A3R',
         permanent: true,
       },
