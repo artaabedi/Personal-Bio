@@ -17,7 +17,7 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/portfolio,
+        source: '/portfolio',
         destination: 'https://artaabedi.com/',
         permanent: true,
       },
