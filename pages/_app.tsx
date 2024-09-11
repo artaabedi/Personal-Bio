@@ -71,7 +71,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "Virtual Photography, Blogger, Discord Bot Developer, Web Developer, Mewwme's, Web Developer, Discord Music Bot, tech enthusiast, open source",
+              "Arta Abedi, Blogger, Telegram Bot Developer, Web Developer, Mewwme's, Web Developers, Telegram Uploader Bot, tech enthusiast, open source",
           },
         ]}
       />
