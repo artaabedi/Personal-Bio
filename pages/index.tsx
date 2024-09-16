@@ -6,7 +6,7 @@ const name = "αятα";
 const belowLink = "Wᴇʙ Dᴇᴠᴇʟᴏᴘᴇʀ";
 /*const bio = "Blogger | Dreamer | Gamer";*/
 
-const servername = "Made by tragic";
+const servername = "Made by AKA ARTA";
 
 export default function Home() {
   return (
